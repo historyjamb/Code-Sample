@@ -1,3 +1,13 @@
+"""
+This project was completed as part of the coursework for the Introduction to AI with Python course taken through Harvard Extension School.
+The full project description as well as the original minesweeper.py and runner.py files can be accessed at the following link: 
+https://cs50.harvard.edu/summer/ai/2022/projects/1/minesweeper/
+ 
+Functions programmed for this project include the following: 
+- Sentence class: known_mines, known_safes, mark_mine, and mark_safe
+- MinesweeperAI class: add_knowledge, make_safe_move, make_random_move, find_neighbors, remove_empty_sets, remove_duplicates
+"""
+
 import itertools
 import random
 import copy
