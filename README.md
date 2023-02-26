@@ -1,10 +1,5 @@
 # Code-Sample
 
-Modeller project:
-This project was performed as independent research in summer of 2022. A 3D protein model was constructed based on an amino acid sequence of the PHKA2 protein and query sequences using the following tools: NCBI Blast, RCSB PDB, Modeller, and Chimera.
-
-Attached files include the following:
-
 **minesweeper.py** <br>
 This project was completed as part of the Introduction to AI with Python course taken through Harvard Extension School. The project description, runner.py file, and original minesweeper.py file can be accessed at the following link: https://cs50.harvard.edu/summer/ai/2022/projects/1/minesweeper/
  
@@ -17,3 +12,7 @@ This project was completed as part of the Introduction to AI with Python course 
  
 Functions programmed for this project:
 - player, actions, result, winner, terminal, utility, minimax, max_value, min_value
+
+**3D protein model:** <br>
+In this independent-research project, a 3D protein model was constructed based on the amino acid sequence of wild and mutated versions of the PHKA2 protein. For reasons of PHI, only the final 3D comparison (file name: "Final Comparison - Wild and Mutated.cxs") and the files for the wild type model are included here. The process for constructing the 3D model of the wild and mutated protein was the same. <br>
+Query sequences were obtained using NCBI Blast and the RCSB PDB. Modeller software and modified Python scripts from the Salilab basic Modeller tutorial were used to construct the model, which can be visualized using Chimera.
