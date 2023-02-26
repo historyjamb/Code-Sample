@@ -19,4 +19,4 @@ Functions programmed for this project:
 This project was completed as part of the Introduction to AI with Python course taken through Harvard Extension School. The project description, runner file, and original tictactoe.py file can be accessed at the following link: https://cs50.harvard.edu/summer/ai/2022/projects/0/tictactoe/
  
 Functions programmed for this project:
-- All functions in tictactoe.py except initial_state: player, actions, result, winner, terminal, utility, minimax, max_value, min_value
+- player, actions, result, winner, terminal, utility, minimax, max_value, min_value
