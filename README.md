@@ -1,8 +1,5 @@
 # Code-Sample
 
-"""
-Descriptions of included code samples:
-
 Modeller project:
 This project was performed as independent research in summer of 2022. A 3D protein model was constructed based on an amino acid sequence of the PHKA2 protein and query sequences using the following tools: NCBI Blast, RCSB PDB, Modeller, and Chimera.
 
