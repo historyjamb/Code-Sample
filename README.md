@@ -14,4 +14,4 @@ Functions programmed for this project:
 - player, actions, result, winner, terminal, utility, minimax, max_value, min_value
 
 **3D protein model:** <br>
-In this independent-research project, a 3D protein model was constructed based on the amino acid sequence of wild and mutated versions of the PHKA2 protein. Query sequences were obtained using NCBI Blast and the RCSB PDB. Modeller software and modified Python scripts from the Salilab basic Modeller tutorial were used to construct the model, which can be visualized using Chimera.
+In this independent-research project, a 3D protein model was constructed based on the amino acid sequence of the PHKA2 protein. Query sequences were obtained using NCBI Blast and the RCSB PDB. Modeller software and modified Python scripts from the Salilab basic Modeller tutorial were used to construct the model, which can be visualized using Chimera.
